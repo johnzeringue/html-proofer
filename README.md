@@ -1,6 +1,6 @@
 # HTMLProofer
 
-If you generate HTML files, _then this tool might be for you_.
+If you generate HTML files, then this _is_ the tool for you.
 
 `HTMLProofer` is a set of tests to validate your HTML output. These tests check if your image references are legitimate, if they have alt tags, if your internal links are working, and so on. It's intended to be an all-in-one checker for your output.
 
